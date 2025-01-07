@@ -1,4 +1,3 @@
-import { Subject } from './../entities/Subject';
 import { SubjectController } from '../controllers/SubjectController'
 
 const Router = require("express")
